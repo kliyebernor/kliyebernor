@@ -1,0 +1,34 @@
+phpinfo()
+PHP Version => 7.4.9
+
+System => Windows NT DESKTOP-OF8V70T 10.0 build 19043 (Windows 10) AMD64
+Build Date => Aug  4 2020 11:45:36
+Compiler => Visual C++ 2017
+Architecture => x64
+Configure Command => cscript /nologo /e:jscript configure.js  "--enable-snapshot-build" "--enable-debug-pack" "--with-pdo-oci=c:\php-snap-build\deps_aux\oracle\x64\instantclient_12_1\sdk,shared" "--with-oci8-12c=c:\php-snap-build\deps_aux\oracle\x64\instantclient_12_1\sdk,shared" "--enable-object-out-dir=../obj/" "--enable-com-dotnet=shared" "--without-analyzer" "--with-pgo"
+Server API => Command Line Interface
+Virtual Directory Support => enabled
+Configuration File (php.ini) Path => C:\WINDOWS
+Loaded Configuration File => C:\wamp64\bin\php\php7.4.9\php.ini
+Scan this dir for additional .ini files => (none)
+Additional .ini files parsed => (none)
+PHP API => 20190902
+PHP Extension => 20190902
+Zend Extension => 320190902
+Zend Extension Build => API320190902,TS,VC15
+PHP Extension Build => API20190902,TS,VC15
+Debug Build => no
+Thread Safety => enabled
+Thread API => Windows Threads
+Zend Signal Handling => disabled
+Zend Memory Manager => enabled
+Zend Multibyte Support => provided by mbstring
+IPv6 Support => enabled
+DTrace Support => disabled
+
+Registered PHP Streams => php, file, glob, data, http, ftp, zip, compress.zlib, compress.bzip2, https, ftps, phar
+Registered Stream Socket Transports => tcp, udp, ssl, tls, tlsv1.0, tlsv1.1, tlsv1.2, tlsv1.3
+Registered Stream Filters => convert.iconv.*, string.rot13, string.toupper, string.tolower, string.strip_tags, convert.*, consumed, dechunk, zlib.*, bzip2.*
+
+This program makes use of the Zend Scripting Language Engine:
+Zend Engine v3.4.0, Copyright (c) Zend Technologies
